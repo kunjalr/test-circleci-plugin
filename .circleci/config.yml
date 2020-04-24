@@ -11,7 +11,6 @@ workflows:
           prisma_cloud_api_url: https://api-sl.qa.prismacloud.io
           access_key: 1b27424a-2eaf-4a3e-8b53-dacdc666d8f6
           secret_key: PC_SECRET_KEY
-          failure_criteria_high_severity: 1
           failure_criteria_medium_severity: 2
           failure_criteria_low_severity: 3
           failure_criteria_operator: and
