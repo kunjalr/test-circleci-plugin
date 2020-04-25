@@ -1,0 +1,13 @@
+terraform_version: '0.12'
+terraform_012_parameters:
+- root_module: /rich-value-types/network/
+  variable_files: 
+  - /rich-value-types/network/variables.tf
+- root_module: /for-expressions/
+  variable_files: 
+  - ''
+tags:
+- 'Org: Panw'
+- 'Team: ShiftLeft'
+- 'Env: Dev'
+
