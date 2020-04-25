@@ -1,3 +1,4 @@
+template_type: f
 terraform_version: '0.12'
 terraform_012_parameters:
 - root_module: /rich-value-types/network/
