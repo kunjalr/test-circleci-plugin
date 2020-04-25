@@ -11,3 +11,4 @@ workflows:
           prisma_cloud_api_url: https://api-sl.qa.prismacloud.io
           access_key: 1b27424a-2eaf-4a3e-8b53-dacdc666d8f6
           secret_key: PC_SECRET_KEY
+          templates_directory_path : cft2/
