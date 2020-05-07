@@ -15,4 +15,4 @@ workflows:
           failure_criteria_medium_severity: 0
           failure_criteria_low_severity: 0
           failure_criteria_operator: or
-          asset_name: k circleci test
+          asset_name: k
